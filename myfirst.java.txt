@@ -2,3 +2,5 @@ class m1{
 
 system.out.println("hello");
 }
+
+hello
